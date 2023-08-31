@@ -1,5 +1,5 @@
 ### Hi, welcome! 
-(https://github.com/HernanVega753/HernanVega753/assets/135767976/1524670d-5282-4c9f-bf97-7f6b12ea3dca)
+
 I am Hernán Vega, passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
 
 
