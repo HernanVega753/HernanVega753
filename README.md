@@ -1,6 +1,6 @@
-
+<div align="center">
 ![logo-github](https://github.com/HernanVega753/HernanVega753/assets/135767976/4b1a30d5-8bcf-4a8a-9a49-178daa08d9df)
-
+</div>
 
 
 I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
