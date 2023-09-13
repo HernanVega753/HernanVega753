@@ -1,5 +1,5 @@
 <div align="center">
-<code><img width="600px" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/18339156-d1b2-4bd8-b540-6ce507283da1" alt="Git" title="Git"/></code>
+<code><img width="600px" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/99a0847a-529b-40b4-ba25-ea9c8219795f" alt="Git" title="Git"/></code>
 </div>
 
 
