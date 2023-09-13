@@ -1,5 +1,5 @@
 <div align="center">
-![logo-github](https://github.com/HernanVega753/HernanVega753/assets/135767976/4b1a30d5-8bcf-4a8a-9a49-178daa08d9df)
+<code><img width="50" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/4b1a30d5-8bcf-4a8a-9a49-178daa08d9df" alt="Git" title="Git"/></code>
 </div>
 
 
