@@ -1,5 +1,6 @@
-### Hi, There! I´m Hernán Vega!
-<code align="center"><img width="250" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/4d6d893a-f448-4c2e-a4ea-d16d7cf23e5c" alt="Logo" title="Logo"/></code>
+
+![logo-github](https://github.com/HernanVega753/HernanVega753/assets/135767976/c884355e-8841-470d-932b-43010da4b7d2)
+
 
 
 I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
@@ -12,7 +13,9 @@ I am a passionate about technology and programming. I make use of both formal ed
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
-<div aligni= "right
+<div aligni= "right">
+	   ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+</div>
 
 <!--
 **HernanVega753/HernanVega753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
