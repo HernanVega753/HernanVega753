@@ -1,8 +1,10 @@
 ### Hi, There! I´m Hernán Vega!
+<code><img width="50" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/4d6d893a-f448-4c2e-a4ea-d16d7cf23e5c" alt="Logo" title="Logo"/></code>
+
 
 I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
 <H3>I´m actually learning:</H3>	
-<div align="center">
+<div class:images align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
