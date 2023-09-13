@@ -1,5 +1,5 @@
 ### Hi, There! I´m Hernán Vega!
-<code><img width="250" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/4d6d893a-f448-4c2e-a4ea-d16d7cf23e5c" alt="Logo" title="Logo"/></code>
+<code align:"center"><img width="250" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/4d6d893a-f448-4c2e-a4ea-d16d7cf23e5c" alt="Logo" title="Logo"/></code>
 
 
 I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
