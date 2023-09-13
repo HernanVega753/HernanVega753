@@ -1,5 +1,5 @@
 
-![logo-github](https://github.com/HernanVega753/HernanVega753/assets/135767976/c884355e-8841-470d-932b-43010da4b7d2)
+![logo-github](https://github.com/HernanVega753/HernanVega753/assets/135767976/4b1a30d5-8bcf-4a8a-9a49-178daa08d9df)
 
 
 
