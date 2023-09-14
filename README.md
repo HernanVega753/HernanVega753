@@ -16,7 +16,7 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
-	##contact me:
+	<H6>contact me:</H6>
 	
 send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
 
