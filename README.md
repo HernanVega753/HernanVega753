@@ -20,7 +20,7 @@ I am a passionate about technology and programming. I make use of both formal ed
 	hervega123@gmail.com
 </div>
 <div align="center">
-	<code align="center"> ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/3fad8693-1f85-49b2-a7e7-e4290e40d7f2)</code>
+	<code> ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/3fad8693-1f85-49b2-a7e7-e4290e40d7f2)</code>
 </div>
 
 
