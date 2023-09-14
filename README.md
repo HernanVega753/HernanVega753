@@ -20,7 +20,7 @@
 	hervega123@gmail.com
 </div>
 
-<p align="center">Allways open to teamwork ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)
+<p> align="center">Allways open to teamwork ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)
 </p>
 <div align="center"><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></div>
 
