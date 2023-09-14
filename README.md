@@ -1,7 +1,9 @@
 <div align="center">
 <code><img width="600px" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/99a0847a-529b-40b4-ba25-ea9c8219795f" alt="Git" title="Git"/></code>
 </div>
-
+<div>
+	
+</div>
 
 I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
 <H3>I´m actually learning:</H3>	
@@ -17,6 +19,15 @@ I am a passionate about technology and programming. I make use of both formal ed
 	<h6>contact me on:</h6>
 	hervega123@gmail.com
 </div>
+<div>
+	
+</div>
+<p align="right">
+	I focus on finding solutions and better ways of doing things. I feel comfortable working in a team. I am enthusiastic about creating and learning new things.
+</p>
+
+<code align= "left"> ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/3fad8693-1f85-49b2-a7e7-e4290e40d7f2)</code>
+
 
 <!--
 **HernanVega753/HernanVega753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
