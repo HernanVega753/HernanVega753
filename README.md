@@ -5,7 +5,7 @@
 	
 </div>
 
-I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!
+<div align="center">I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!</div>
 <H3>I´m actually learning:</H3>	
 <div class:images align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -20,8 +20,8 @@ I am a passionate about technology and programming. I make use of both formal ed
 	hervega123@gmail.com
 </div>
 
-<div align="center><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/10436ee2-cd7d-4412-b163-989e4423cc4c" alt="equipo" title="equipo"/></div>
-<p align="center">Allways open to teamwork</p>
+<p align="center">Allways open to teamwork ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)
+</p>
 <div align="center"><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></div>
 
 
