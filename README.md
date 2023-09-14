@@ -19,14 +19,12 @@ I am a passionate about technology and programming. I make use of both formal ed
 	<h6>contact me on:</h6>
 	hervega123@gmail.com
 </div>
-<div>
-	
+<div align="center">
+	<code align="center"> ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/3fad8693-1f85-49b2-a7e7-e4290e40d7f2)</code>
 </div>
-<p align="right">
-	I focus on finding solutions and better ways of doing things. I feel comfortable working in a team. I am enthusiastic about creating and learning new things.
-</p>
 
-<code align= "left"> ![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/3fad8693-1f85-49b2-a7e7-e4290e40d7f2)</code>
+
+
 
 
 <!--
