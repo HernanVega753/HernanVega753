@@ -15,17 +15,15 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
-<div>
-	<h6>contact me:</h6>
+
+	##contact me:
 	
-</div>
-["contact me at email"](hervega123@gmail.com)
-[Find me on linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278]
+send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
 
 <p align="center">Allways open to teamwork</p>
 <p align="center">![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)</p>
 
-<div align="center"><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></div>
+<div><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></div>
 
 
 
