@@ -22,7 +22,7 @@ I am a passionate about technology and programming. I make use of both formal ed
 
 
 <p align="center">Allways open to teamwork</p>
-<code align="center"><img width="50" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></code>
+<code align="center"><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></code>
 
 
 
