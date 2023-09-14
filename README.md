@@ -16,14 +16,14 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
-	<H6>contact me:</H6>
+<H6>Contact me: </H6>
 	
 send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
 
 <p align="center">Allways open to teamwork</p>
 <p align="center">![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)</p>
 
-<div><img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></div>
+<img src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 
 
 
