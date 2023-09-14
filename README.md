@@ -22,9 +22,11 @@ send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.li
 
 <p align="center">Allways open to teamwork</p>
 <p align="center">
+	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/bec74268-9e3d-44d4-aac5-668825fa8563" alt="team" title="team"/>
+</p>
+<p align="center">
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 </p>
-
 
 
 
