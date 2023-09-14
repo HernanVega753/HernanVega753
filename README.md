@@ -19,12 +19,11 @@ I am a passionate about technology and programming. I make use of both formal ed
 	<h6>contact me on:</h6>
 	hervega123@gmail.com
 </div>
-![separador](https://github.com/HernanVega753/HernanVega753/assets/135767976/8277703c-7878-4e78-9296-be9583f7b838)
 
 
 <p align="center">Allways open to teamwork</p>
+<code align="center"><img width="50" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/></code>
 
-![separador](https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e)
 
 
 
