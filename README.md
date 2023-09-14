@@ -17,9 +17,10 @@
 </div>
 <div>
 	<h6>contact me:</h6>
-	![mail me](hervega123@gmail.com)
-	![Find me on linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278]
+	
 </div>
+["contact me at email"](hervega123@gmail.com)
+[Find me on linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278]
 
 <p align="center">Allways open to teamwork</p>
 <p align="center">![giphy](https://github.com/HernanVega753/HernanVega753/assets/135767976/6c61b27d-0d2d-4d23-beb1-86b30860ccc6)</p>
