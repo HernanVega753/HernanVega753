@@ -28,6 +28,7 @@ send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.li
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 </p>
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=HernanVega753&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HernanVega753&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanVega753&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
