@@ -27,6 +27,8 @@ send me a [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.lin
 <p align="center">
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 </p>
+<div align="center">
+	
 # 📊 GitHub Stats:
 
 	
@@ -48,6 +50,7 @@ send me a [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.lin
 	
 [![](https://visitcount.itsvg.in/api?id=HernanVega753&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
