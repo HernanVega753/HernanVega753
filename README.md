@@ -1,13 +1,20 @@
 <div align="center">
-<code><img width="600px" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/99a0847a-529b-40b4-ba25-ea9c8219795f" alt="Git" title="Git"/></code>
-</div>
-<div>
-	
+<code><img heigh = "200" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/174b5a42-90c9-46f5-88df-6ecfb883ff7c" alt="Git" title="Git"/></code>
 </div>
 
-<div align="center">I am a passionate about technology and programming. I make use of both formal education and self-taught learning. I try to seize every opportunity to grow and learn!</div>
-<H3>I´m actually learning:</H3>	
-<div class:images align="center">
+<div align="left">
+<H3>
+About Me:
+</H3>
+- Passionate about technology ⭐ <br>
+- Continuous learning 📖 <br>
+- Teamwork skills 🤝 <br>
+- Solution-oriented mindset 🧠 <br>
+</div>
+	
+<div class:images align="left">
+
+ <H3>Technologies:</H3>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -16,18 +23,28 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
 </div>
 
-<H4>Contact me:</H4>
+<div align = "left">
 	
-send me a [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
+<H3>Contact me:</H3>
 
-<p align="center">Allways open to teamwork</p>
+</div>
+<div align = "left">
+	
+<img width="15" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/58919486-7025-4b55-8136-024b45370fee"/>
+hervega123@gmail.com <br>
+<img width="17" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/20d46e35-7f49-4493-b193-7aeaa4888b75"/>
+www.linkedin.com/in/hernán-pablo-vega-aa2304278
+</div>
+
+<H3 align="center">Let's work together</H3>
 <p align="center">
-	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/bec74268-9e3d-44d4-aac5-668825fa8563" alt="team" title="team"/>
+	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/bec74268-9e3d-44d4-aac5-668825fa8563.gif" alt="team" title="team"/>
 </p>
 <p align="center">
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 </p>
 <div align="center">
+	
 	
 # 📊 GitHub Stats:
 
