@@ -18,7 +18,7 @@
 
 <H4>Contact me:</H4>
 	
-send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
+send me a [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
 
 <p align="center">Allways open to teamwork</p>
 <p align="center">
@@ -28,26 +28,21 @@ send me an [e-mail](hervega123@gmail.com) or take a look to my [linkedin](www.li
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
 </p>
 # 📊 GitHub Stats:
-
+<div align = center>
 ![](https://github-readme-stats.vercel.app/api?username=HernanVega753&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HernanVega753&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HernanVega753&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ## 🏆 GitHub Trophies
+<div align = center>
 ![](https://github-profile-trophy.vercel.app/?username=HernanVega753&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
-
+</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HernanVega753&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
+<div align = center>
 [![](https://visitcount.itsvg.in/api?id=HernanVega753&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
