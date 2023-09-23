@@ -1,6 +1,10 @@
+
+
 <div align="center">
-<code><img heigh = "200" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/174b5a42-90c9-46f5-88df-6ecfb883ff7c" alt="Git" title="Git"/></code>
+<code><img width="auto" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/a0d0b9c2-eefb-4c48-94ed-ea2a0c21f91f"/></code>
 </div>
+
+
 
 <div align="left">
 <H3>
