@@ -34,12 +34,10 @@ About Me:
 </div>
 <div align = "left">
 	
-<img width="15" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/58919486-7025-4b55-8136-024b45370fee"/>
-hervega123@gmail.com <br>
-<img width="17" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/20d46e35-7f49-4493-b193-7aeaa4888b75"/>
-www.linkedin.com/in/hernán-pablo-vega-aa2304278
-</div>
+[![by e-mail](https://github.com/HernanVega753/HernanVega753/assets/135767976/53990dbd-913f-4c2f-a3d8-2df6aef6e9af)](hervega123@gmail.com)
+[![take a look to my linkedin](https://github.com/HernanVega753/HernanVega753/assets/135767976/d4b915dc-70a3-44a4-b0b0-14768b5011f8)](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
 
+</div>
 <H3 align="center">Let's work together</H3>
 <p align="center">
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/bec74268-9e3d-44d4-aac5-668825fa8563.gif" alt="team" title="team"/>
