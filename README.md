@@ -34,8 +34,8 @@ About Me:
 </div>
 <div align = "left">
 	
-[![by e-mail](https://github.com/HernanVega753/HernanVega753/assets/135767976/53990dbd-913f-4c2f-a3d8-2df6aef6e9af)](hervega123@gmail.com)
-[![take a look to my linkedin](https://github.com/HernanVega753/HernanVega753/assets/135767976/d4b915dc-70a3-44a4-b0b0-14768b5011f8)](www.linkedin.com/in/hernán-pablo-vega-aa2304278)
+![by e-mail](https://github.com/HernanVega753/HernanVega753/assets/135767976/53990dbd-913f-4c2f-a3d8-2df6aef6e9af) - hervega123@gmail.com ✍️ <br>
+![take a look to my linkedin](https://github.com/HernanVega753/HernanVega753/assets/135767976/d4b915dc-70a3-44a4-b0b0-14768b5011f8) - www.linkedin.com/in/hernán-pablo-vega-aa2304278 👨‍💼
 
 </div>
 <H3 align="center">Let's work together</H3>
