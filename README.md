@@ -13,29 +13,24 @@ About Me:
 - Teamwork skills 🤝 <br>
 - Solution-oriented mindset 🧠 <br>
 </div>
-	
+<hr>
 <div class:images align="left">
 
  <H3>Technologies:</H3>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
- <H3>FrontEnd:</H3>
- <br>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
  	<img width="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg alt="android" width="40" height="40"/> </a> <a href=https://www.python.org target="_blank" rel="noreferrer"> 
-		<H3>BackEnd:</H3>
-		<br>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
-		<H3>Data Base:</H3>
-		<br>
-	<code><img width="50" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg alt="android" width="40" height="40"/><code>
- 	
+	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="android"/></code>
 </div>
 
 <div align = "left">
-	
+
+<hr>
+
 <H3>Contact me:</H3>
 
 </div>
@@ -49,9 +44,7 @@ About Me:
 <p align="center">
 	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/bec74268-9e3d-44d4-aac5-668825fa8563.gif" alt="team" title="team"/>
 </p>
-<p align="center">
-	<img  src="https://github.com/HernanVega753/HernanVega753/assets/135767976/49ead6a5-8bef-461c-960c-bffe2384348e" alt="separador" title="separador"/>
-</p>
+<hr>
 <div align="center">
 	
 	
@@ -61,10 +54,14 @@ About Me:
 ![](https://github-readme-stats.vercel.app/api?username=HernanVega753&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HernanVega753&theme=prussian&hide_border=false)<br/>
 
+<hr>
+
 ## 🏆 GitHub Trophies
 
 	
 ![](https://github-profile-trophy.vercel.app/?username=HernanVega753&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
 
 ### ✍️ Random Dev Quote
 
