@@ -1,7 +1,8 @@
 
 
 <div align="center">
-<img width="auto" src="https://github.com/HernanVega753/HernanVega753/assets/135767976/a0d0b9c2-eefb-4c48-94ed-ea2a0c21f91f"/>
+<img width="auto" src="https://github.com/user-attachments/assets/d0ab0cba-0d79-4179-ab44-34e10b13e527"/>
+
 	
 	
  [![](https://visitcount.itsvg.in/api?id=HernanVega753&icon=0&color=0)](https://visitcount.itsvg.in)
